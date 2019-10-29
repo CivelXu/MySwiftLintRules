@@ -16,7 +16,7 @@ whitelist_rules:
   # are not used.
   - empty_enum_arguments
   
-  # fatal_error_message
+  # A fatalError call should have a message.
   - fatal_error_message
   
   # Force casts should be avoided.
