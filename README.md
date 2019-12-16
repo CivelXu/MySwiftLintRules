@@ -95,6 +95,7 @@ whitelist_rules:
 excluded:
   - Pods
   - Carthage
+  - R.generated.swift
 
 colon:
   apply_to_dictionaries: false
